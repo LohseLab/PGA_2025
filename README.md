@@ -1,4 +1,4 @@
-# Population Genomic Analysis 2024 (PGBI11126)
+# Population Genomic Analysis 2025 (PGBI11126)
 
 GitHub repository of the [Population Genomic Analysis 2024 (PGBI11126) postgraduate course](http://www.drps.ed.ac.uk/23-24/dpt/cxpgbi11126.htm) at the University of Edinburgh 
 
